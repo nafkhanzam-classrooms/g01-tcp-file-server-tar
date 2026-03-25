@@ -4,7 +4,7 @@
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-|                |            |           |
+|Athar Bakhtiar Aziz|5025241136|C|
 |                |            |           |
 
 ## Link Youtube (Unlisted)
